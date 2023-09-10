@@ -23,12 +23,19 @@ npm run build
 ### Навигация по коду
 .
 ├── node_modules
+|
 ├── public
+|
 ├── src
+|
 ├── README.md
+|
 ├── index.html
+|
 ├── package-lock.json
+|
 ├── package.json
+|
 └── vite.config.js
 
 ### Содержание файлов
