@@ -21,7 +21,7 @@ npm run dev
 npm run build
 
 ### Навигация по коду
-...
+.
 ├── node_modules
 ├── public
 ├── src
@@ -30,7 +30,6 @@ npm run build
 ├── package-lock.json
 ├── package.json
 └── vite.config.js
-...
 
 ### Содержание файлов
 - assets содержит базовые CSS-файлы.
